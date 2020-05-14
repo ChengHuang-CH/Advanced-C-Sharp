@@ -1,0 +1,4 @@
+H:\LocalGitFIles\Advanced-C-Sharp\1.Data Type\TypicalDataTypes\TypicalDataTypes\bin\Debug\TypicalDataTypes.exe
+H:\LocalGitFIles\Advanced-C-Sharp\1.Data Type\TypicalDataTypes\TypicalDataTypes\bin\Debug\TypicalDataTypes.pdb
+H:\LocalGitFIles\Advanced-C-Sharp\1.Data Type\TypicalDataTypes\TypicalDataTypes\obj\x86\Debug\TypicalDataTypes.exe
+H:\LocalGitFIles\Advanced-C-Sharp\1.Data Type\TypicalDataTypes\TypicalDataTypes\obj\x86\Debug\TypicalDataTypes.pdb
